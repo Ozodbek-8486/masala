@@ -1,11 +1,11 @@
-Foydalanuvchidan 3 ta son kiriting. Dastur ushbu sonlar asosida quyidagilarni aniqlasin:
+# Foydalanuvchidan baho kiriting (1 dan 5 gacha). Dastur bahoga qarab quyidagicha xabar chiqarsin:
 
-Agar hammasi musbat bo‘lsa → "Barcha sonlar musbat"
+# Agar baho 5 bo‘lsa → “A’lo”
 
-Agar faqat bittasi manfiy bo‘lsa → "Faqat bitta son manfiy"
+# Agar baho 4 bo‘lsa → “Yaxshi”
 
-Agar ikki tasi manfiy bo‘lsa → "Ikki son manfiy"
+# Agar baho 3 bo‘lsa → “Qoniqarli”
 
-Agar hammasi manfiy bo‘lsa → "Barcha sonlar manfiy"
+# Agar baho 2 bo‘lsa → “Qoniqarsiz”
 
-Aks holda → "Nol qatnashgan"
+# Aks holda → “Noto‘g‘ri baho kiritildi”
