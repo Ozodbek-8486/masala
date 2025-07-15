@@ -23,3 +23,15 @@
 # Agar son musbat bo'lsa → “Musbat son”
 # Agar son manfiy bo'lsa → “Manfiy son”
 # Agar foydalanuvchi 0 kiritgan bo'lsa → “Bu nol”
+
+
+
+# 4-masala
+#  Foydalanuvchi hafta kunining raqamini kiritsin (1–7).
+# Mos kun nomini chiqar:
+
+
+# 5-masala
+#  Foydalanuvchi login va parol kiritsin.
+# Agar login admin va parol 12345 bo‘lsa, Xush kelibsiz, admin! chiqsin.
+# Aks holda Login yoki parol xato!
